@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-brew tap chrissewell/jsondiff
+brew tap jabba2324/jsondiff
 brew install jsondiff
 ```
 
@@ -13,4 +13,4 @@ brew install jsondiff
 jsondiff file1.json file2.json
 ```
 
-For more options, see: https://github.com/chrissewell/jsondiff
+For more options, see: https://github.com/jabba2324/jsondiff

@@ -1,7 +1,7 @@
 class Jsondiff < Formula
   desc "Command-line tool to compare two JSON files and show their differences"
-  homepage "https://github.com/chrissewell/jsondiff"
-  url "https://github.com/chrissewell/jsondiff/archive/v1.0.0.tar.gz"
+  homepage "https://github.com/jabba2324/jsondiff"
+  url "https://github.com/jabba2324/jsondiff/archive/v1.0.0.tar.gz"
   sha256 "5bbcf62751a17cc6ce3690bf77a9fb23336cbc5c72e3b6a601ffc99f334276bd"
   license "MIT"
 
